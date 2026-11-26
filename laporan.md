@@ -2,6 +2,7 @@
 
 ## Identitas Mahasiswa
 * **Nama:** Faturrachman Wiguna
+* **Nim:** 362558302078
 * **Program Studi:** Teknologi Rekayasa Perangkat Lunak (TRPL) — Politeknik Negeri Banyuwangi
 * **Kelas:** 2RPLE
 * **Mata Kuliah:** Pemrograman Perangkat Bergerak
